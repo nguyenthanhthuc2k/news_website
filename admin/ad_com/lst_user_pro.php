@@ -1,0 +1,3 @@
+<?php
+$getAllUser = User::getAllUser();
+?>

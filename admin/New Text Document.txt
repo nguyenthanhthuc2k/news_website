@@ -1,0 +1,10 @@
+1 trang web gồm : xử lí nằm đầu tiên --- giao diện(gồm nhiều phần khác nhau) ,
+cbo js + css---
+Đặt tên ; xử lí tentrang + _ctp(giao diện) _pro(xử lí) _css _js ( .php )
+
+
+------
+xử lí truy vẩn trong lib
+Ghi chú trang nào dùng api nào
+tạo từng file riêng cho lib
+---

@@ -1,0 +1,1 @@
+<script src="<?php echo $level.VENDOR;?>bootstrap-5/js/bootstrap.min.js"></script>
